@@ -38,8 +38,9 @@ so as to quantify the amount of single nucleotide polymorphisms that are in low 
 **Implementation Description**
 ------------------------------
 
-| **Tools used **|
-------------------
+
+| **Tools used** |
+|----------------|
 | Scala 2.10.3   |
 |  JUnit 4       |
 | jMock 2.6.0    |
